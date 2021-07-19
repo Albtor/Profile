@@ -5,4 +5,14 @@
 🥅 2021 Goals: Learn about Blockchain and get involved in interesting proyects.</br>
 
 <strong>Languages and Tools:</strong></br>
-<img src>
+<img src="./html.png" width="30">
+<img src="./css.png" width="30">
+<img src="./sass.png" width="30">
+<img src="./javascript.png" width="30">
+<img src="./react.png" width="30">
+<img src="./nodejs.png" width="30">
+<img src="./sql.png" width="30">
+<img src="./sql.png" width="30">
+<img src="./git.png" width="30">
+<img src="./github.png" width="30">
+<img src="./visual-studio-code.png" width="30">
