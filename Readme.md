@@ -1,5 +1,5 @@
 #### Hey, I'm Alberto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-🌱 I’m currently learning everything 🤣.</br>
+🌱 I’m currently learning everything.</br>
 👨‍💻 Focusing on JavaScript, React, CSS Animations and Java.</br>
 🥅 2021 Goals: Learn about Blockchain and get involved in interesting proyects.</br>
 
