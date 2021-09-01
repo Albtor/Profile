@@ -2,7 +2,7 @@
 🌱 I’m currently learning! (and probably will be forever).</br>
 👨‍💻 Focusing on JavaScript, React, CSS Animations and Java.</br>
 👯 Finishing FP DAM on 2022.</br>
-🥅 2021 Goals: Learn about Blockchain, get involved in interesting proyectsa and code as much as possible</br>
+🥅 2021 Goals: Learn about Blockchain, get involved in interesting proyects and code as much as possible</br>
 
 <!-- 👯 I’m looking to collaborate with other content creators.</br> -->
 <!-- GitHub Stats:
