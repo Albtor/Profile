@@ -1,8 +1,6 @@
 #### Hey, I'm Alberto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-🌱 I’m currently learning! (and probably will be forever).</br>
-👨‍💻 Focusing on JavaScript, React, CSS Animations and Java.</br>
-👯 Finishing FP DAM on 2022.</br>
-🥅 2021 Goals: Learn about Blockchain, get involved in interesting proyects and code as much as possible</br>
+👨‍💻 JavaScript, Python, React, CSS Animations and Java.</br>
+🥅 2023 Goals: Blockchain.
 
 <!-- 👯 I’m looking to collaborate with other content creators.</br> -->
 <!-- GitHub Stats:
