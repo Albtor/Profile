@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruialbe&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ruialbe's GitHub Stats" />
 </a>  -->
 
-<strong>Languages and Tools:</strong></br>
+<strong>Skills:</strong></br>
 <img src="./html.png" width="30">
 <img src="./css.png" width="30">
 <img src="./sass.png" width="30">
@@ -21,7 +21,3 @@
 <img src="./react.png" width="30">
 <img src="./nodejs.png" width="30">
 <img src="./sql.png" width="30">
-<img src="./visual-studio-code.png" width="30">
-<img src="./git.png" width="30">
-<img src="./github.png" width="30">
-
