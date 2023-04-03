@@ -12,12 +12,15 @@
 </a>  -->
 
 <strong>Skills:</strong></br>
-<img src="./html.png" width="30">
-<img src="./css.png" width="30">
-<img src="./sass.png" width="30">
-<img src="./php.png" width="30">
-<img src="./java.png" width="30">
 <img src="./javascript.png" width="30">
+<img src="./java.png" width="30">
+<img src="./python.png" width="30">
+<img src="./php.png" width="30">
+<img src="./css.png" width="30">
 <img src="./react.png" width="30">
 <img src="./nodejs.png" width="30">
 <img src="./sql.png" width="30">
+<img src="./aws.png" width="30">
+<img src="./gcp.png" width="30">
+<img src="./html.png" width="30">
+<img src="./sass.png" width="30">
