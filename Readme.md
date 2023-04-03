@@ -1,6 +1,6 @@
 #### Hey, I'm Alberto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-👨‍💻 JavaScript, Python, React, CSS Animations and Java.</br>
-🥅 2023 Goals: Blockchain.
+👨‍💻 JavaScript, Python, React, Java, CSS and MySQL.</br>
+🥅 Next Goals: Big Data, AI and Blockchain. 
 
 <!-- 👯 I’m looking to collaborate with other content creators.</br> -->
 <!-- GitHub Stats:
