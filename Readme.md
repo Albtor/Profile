@@ -25,5 +25,4 @@
 <img src="./aws.png" width="30">
 <img src="./gcp.png" width="30">
 <img src="./html.png" width="30">
-<img src="./python.png" width="30">
 <img src="./sass.png" width="30">
