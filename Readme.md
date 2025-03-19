@@ -15,7 +15,7 @@
 <img src="./javascript.png" width="30">
 <img src="./python.png" width="30">
 <img src="./kotlin.png" width="30">
-<img src="./androidstudio" width="30">
+<img src="./androidstudio.png" width="30">
 <img src="./java.png" width="30">
 <img src="./php.png" width="30">
 <img src="./css.png" width="30">
@@ -26,5 +26,3 @@
 <img src="./gcp.png" width="30">
 <img src="./html.png" width="30">
 <img src="./sass.png" width="30">
-![androidstudio](https://github.com/user-attachments/assets/c965d626-789c-4573-a54c-7cac813f4110)
-![kotlin](https://github.com/user-attachments/assets/f7618e30-4058-4ca6-ae66-a665834c321a)
