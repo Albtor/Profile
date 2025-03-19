@@ -1,5 +1,5 @@
 #### Hey, I'm Alberto! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-👨‍💻 JavaScript, Python, React, Java, CSS and MySQL.</br>
+👨‍💻 JavaScript, Python, Kotlin, Java, CSS and MySQL.</br>
 🥅 Next Goals: Big Data, AI and Blockchain. 
 
 <!-- 👯 I’m looking to collaborate with other content creators.</br> -->
@@ -13,6 +13,7 @@
 
 <strong>Skills:</strong></br>
 <img src="./javascript.png" width="30">
+<img src="./java.png" width="30">
 <img src="./java.png" width="30">
 <img src="./python.png" width="30">
 <img src="./php.png" width="30">
