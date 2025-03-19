@@ -13,9 +13,10 @@
 
 <strong>Skills:</strong></br>
 <img src="./javascript.png" width="30">
-<img src="./java.png" width="30">
-<img src="./java.png" width="30">
 <img src="./python.png" width="30">
+<img src="./kotlin.png" width="30">
+<img src="./androidstudio" width="30">
+<img src="./java.png" width="30">
 <img src="./php.png" width="30">
 <img src="./css.png" width="30">
 <img src="./react.png" width="30">
@@ -24,4 +25,7 @@
 <img src="./aws.png" width="30">
 <img src="./gcp.png" width="30">
 <img src="./html.png" width="30">
+<img src="./python.png" width="30">
 <img src="./sass.png" width="30">
+![kotlin](https://github.com/user-attachments/assets/f148bc43-9011-4696-b97f-f714decc7e10)
+![androidstudio](https://github.com/user-attachments/assets/186796b9-f487-42a5-bca9-39fbfbd5a80a)
